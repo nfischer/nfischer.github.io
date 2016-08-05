@@ -4,7 +4,7 @@
   "description": "My personal github pages static site",
   "main": "index.js",
   "scripts": {
-    "start": "opener http://127.0.0.1:8080 & http-server",
+    "start": "opener http://127.0.0.1:8080 && http-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
